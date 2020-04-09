@@ -1,0 +1,506 @@
+First draft and more ideas at the end of the class description.
+
+==== Poisoner ====
+
+A Drow fires an arrow from the shadows and strikes the unwary human interloper. The human takes only two steps after being struck with the arrow before crumbling in a heap on the cavern floor, fast asleep.The Drow quickly drags the sleeping target into the shadows and prepares another ambush.	The new half-elven chef walks out in a huff after the nobleman insulted the quality of his meal. As the noble dies gasping for air an hour later, he wonders why he thought food tasters were an unnecessary expense.	A savage lizardfolk thrusts his spear and just scratches the skin of the mighty Ogre, who suddenly goes berserk, blindly attacking his goblin allies with bestial fury.<br>
+
+====Creating a Poisoner====
+	Poisoners use knowledge of poisonous plants, venomous animals, and toxic minerals to craft weapons of war, assassination, and subterfuge. Often the members of criminal organizations or mysterious cults, a poisoner is an expert in the preparation and administering of poisons. She can tailor a toxin to any situation: to paralyse, to knock out, to kill, or even other, more exotic, effects that others would consider beyond the realms of conventional toxicology. Many poisoners pose as apothecaries or herbalists to disguise the deadly truth of their profession. To those who find themselves employing food tasters to protect themselves against possible poison at any time, the threat of a gasping death is very real.<br>
+
+{{5e Class Features
+|name= Poisoner
+|summary= A skilled creator and user of poisons.
+|hd=8
+|spellcasting=<!--full (e.g. wizard), half (e.g. ranger), third (e.g. eldritch knight), or leave blank-->
+|armor=Light Armor, Shields
+|weapons=Simple weapons, the shortsword, the hand crossbow, and the blowgun
+|tools=Poisoner's Kit
+|saves= Intelligence, Constitution
+|skills=Choose two from Animal Handling, Deception, Insight, Investigation, Medicine, Nature, Perception, Sleight of Hand, Stealth, Survival. 
+|item1a=Shortsword
+|item1b=Spear
+|item1c=
+|item2a=A shortbow and quiver of 20 arrows
+|item2b=blowgun and quiver of 50 needles
+|item2c=
+|item3a=scholar's pack
+|item3b=dungeoneer's pack
+|item3c=explorer's pack
+|item4a=Leather Armor, Alchemist Tools, and Poisoner’s Kit.
+|item4b=
+|item4c=
+|wealth=<!--starting wealth, see PHB p. 143-->
+|classfeatures1={{inpage|Poison-making}}, {{inpage|Signature Poisons}}
+|classfeatures2={{inpage|Poison Tolerance}} 
+|classfeatures3=Ingredient Limit per Poison (3), {{inpage|Poisoner Archetype}}
+|classfeatures4=
+|classfeatures5={{inpage|Poisoner Archetype Feature}}
+|classfeatures6=Ingredient Limit per Poison (5)
+|classfeatures7=Ingredient Limit per Poison (6), {{inpage|Deep sleep}}
+|classfeatures8=
+|classfeatures9=Ingredient Limit per Poison (7)
+|classfeatures10={{inpage|Poisoner Archetype Feature}}
+|classfeatures11=Ingredient Limit per Poison (9)
+|classfeatures12=
+|classfeatures13=Ingredient Limit per Poison (10)
+|classfeatures14={{inpage|Poisoner Archetype Feature}}
+|classfeatures15=Ingredient Limit per Poison (11)
+|classfeatures16=
+|classfeatures17=Ingredient Limit per Poison (13)
+|classfeatures18={{inpage|Poisoner Archetype Feature - Ultimate poison}}
+|classfeatures19=
+|classfeatures20={{inpage|Poison Mastery}}
+
+|extrasonleft=1
+|extra1_name=Ingredient Points
+|extra1_1=4
+|extra1_2=6
+|extra1_3=14
+|extra1_4=17
+|extra1_5=27
+|extra1_6=32
+|extra1_7=38
+|extra1_8=44
+|extra1_9=57
+|extra1_10=64
+|extra1_11=83
+|extra1_12=90
+|extra1_13=94
+|extra1_14=99
+|extra1_15=107
+|extra1_16=110
+|extra1_17=114
+|extra1_18=117
+|extra1_19=123
+|extra1_20=133
+}}
+{| class="wikitable"
+
+=== Quick Build ===
+
+You can make a Poisoner quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Dexterity. Second, take the Battle poisoner archetype. Third, choose the Criminal background. Fourth, choose a shortsword, a shortbow and quiver of 20 arrows an explorer’s pack, Leather Armor, Alchemist Tools, and a Poisoner’s Kit. Fifth, create two vials of (2) ingredient point wounding poison with the weapon delivery type.
+
+=== Poisonmaking ===
+At 1st level, your training in poisons allow you to quickly create custom poisons using your poisoner’s kit. Your knack for poison is represented by a number of Ingredient Points as shown in the Ingredient Points column. <br>
+	At the end of a long rest, you expend your ingredient points to create poisons using the Poison Ingredients rules. No poison can use more than two ingredient points. This limit increases as you gain levels in this class as shown in the Features column of the Poisoner table.
+The poisons you create cannot be used by anyone but you as are any additional items you create according to your archetype. After 24 hours, any poisons that you have not used lose their potency.
+Poison save DC = 8 + your proficiency bonus + your intelligence modifier.
+
+=== Poisoner Archetype ===
+At 3rd level, you choose an archetype that grants you a special style of poisoner abilities:
+* Assassin
+* Battle poisoner
+* Manipulator
+Your archetype choice grants you features at 3rd level and then again at 5th, 10th, 14th, and 18th level.
+
+=== Signature Poisons ===
+At 1st level, you can create two special poisons worth half your ingredient limit per potion rounded up with one chosen delivery method that you create without the expenditure of any ingredient points. You are considered to have an unlimited supply of vials of these poisons.
+
+=== Poison Tolerance ===
+At 2nd level, you gain resistance to poison damage and immunity to the poisoned condition.
+
+=== Ability Score Increase ===
+When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of you choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+=== Deep sleep ===
+Increasing your knowledge about poisons at level 9 you can created a poison, that will put someone in deep sleep and stop most of their bodily functions. The target will inherit all symtopms of the spell Feign Death and if the target was close to its death, death saves are no longer needed every round, but every 10 minutes, starting after the poison was applied.
+
+=== Poison Mastery ===
+At 20th level, the Poison save DC = 10 + your proficiency bonus + your intelligence modifier. 
+
+
+
+=== Assassin ===
+
+== Hidden specialist ==
+Assassins are specialized in hiding their poisons. They gain expertise on Slight of Hand checks for the inject delivery type. All ingredients of the type Sweet and Sleeping cost -2 ingredient points up to a minimum of 1.
+
+== Sneaky beaky ==
+At level 5 you have learned to blend into crowds. When disguised, all checks to pierce the disguise are made at a disadvantage and you gain proficiency or if already proficient expertise in stealth and deception.
+
+Ingredients for the Delaying type are free.
+
+== Advanced techniques ==
+Once level 10 you learned your way around traps and are now porficient in setting up traps that work like the inject or weapon delivery type. Every attempt to discerne the traps has disadvantage.
+
+You gain expertise in persuasion, desception and intimidation if the target is under influence of one of your poisons with the delaying ingredient. If you already have the antidote is up to you, but you can produce it in 1 minutes without any cost.
+
+== Preperation. Preperation ==
+
+Reaching level 14 you learned that sometimes it is more important to have one single killing blow, then multiple little attacks. You can now produce one poison every long rest, that can use up to double your current ingredient limit.
+
+== Ultimate poison ==
+
+Reaching level 18, the knowledge of deadly poisons of the Assassin has advanced enought that he learned to create a death poison. Once in effect the death poison will decrease the current and maximum hp of its target by 1 every 30 minutes. No healing effects can affect the target and it will die once its hit points reach 0. No death saves are possible. The poison can only be cured by greater restoration or by a medicin check against a DC of 10 + intelligence + 2 * proficiency. Only one death poison can be created per long rest.
+
+
+
+=== Battle poisoner ===
+
+== Battle specialist ==
+
+Slayers are specialized in head to head fights. They gain expertise on grapple attacks if using the vapor delivery type. All Ingredients of the type Instant or Wounding cost -2 ingredient points up to a minimum of 1.
+
+== Poisonous Weapon ==
+
+Once you reach the 5th level you learned to infuse one of your weapons with some of your poison. You can change the poison on every long rest, but it can only be Burning, Corrosive, Instant, Lingering or Wounding and up to your proficiency bonus as the number of ingredient points.
+
+Change the dice of the wounding ingredient from a d10 to a d12.
+
+== Poisonous Takedown ==
+
+A Slayer is a master at quickly defeating opponents. At level 10, a Slayer using a poison delivered by the Vapor delivery type gains advantage on the grapple check to administer the poison.
+
+If using a damage inflicting ingredient add your intelligence modifier to the damage.
+
+== Double edged weapon ==
+
+At level 14 the Slyer can utilize both of the edges of his blade for poisoning. He can make an extra attack and have two different poisons on his main weapon. Befor any attack the poisoner has to specify which of the two poisons he uses on the first and second attack. Both poisons can be applied by one weapon delivery type usage.
+
+== Ultimate poison ==
+
+Reaching level 18, the knowledge of damaging poisons of the Slayer has advanced enough that he learned to combine two damaging poisons into the ultimate poison, but because the procedure for such a powerful poison is very difficult a Slayer can only produce two of these poisons per long rest.  
+
+
+
+
+=== Manipulator ===
+
+== Conditions specialist ==
+Manipulators are specialized in applying status effects. All Ingredients of the type Amiable, Frenzying and Numbing cost -2 ingredient points up to a minimum of 1. The persistent ingredient cost -1 ingredient point up to a minimum of 1.
+
+You also have trained a companion. This can be any tiny venomous animal like a snake, spider or scorpion. It will follow the simple commands: Move there and attack. Because of a very special diet your companion will inject one of your signature poisons into an attacked target similar to the weapon delivery type. You can change the diet of your pet every long rest to change the applied poison.
+
+== Mix, mix ==
+Once level 5 you mastered punching together some ingredients, that somehow do not kill the target but help him instead. You can use your reaction after a successful attack to make some drugs. This drug can be applied to a willing target as a bonus action or a unwilling one with a chosen delivery method except the powder delivery type. This drug has a type which is decided by the highest ability score of the creature that was attacked. If there are two or more ability scores with the same number it is either up to the DM or random which to use. The drug will increase the chosen attribute on the target by half the ability modifier of the attacked creature rounded up. This bonus can exceed the limit of 20 ability score points and lasts for 10 minutes, but if two or more drugs are applied to a creature the creature suffers 1d8 poison damage every round for every excessive drug. The antidote to flush out every bit of drugs is always available for the poisoner.
+
+Only one drug can be produced from an attack up until 1 minute after the attack.
+
+== Multithrow / Multidrug == 
+With level 10 you lerned to mix better drugs and you can administer up to two drugs at the same time before the creature suffers damage.
+
+You can make two attacks with the powder delivery type if you chose to use your action for this attack.
+
+== Counterpoison ==
+
+You can compose a drug as an action, that can cure one of the following conditions: Charmed, Blinded, Poisoned, Paralyzed, Sleep, Fear. This drug can be administerd with a bonus action. If the target is willing, no delivery type has to be chosen otherwise follow the rules for the delivery types.
+
+== Ultimate poison ==
+
+It´s simple. You get a poison that petrifies. Once every long rest. No cost what so ever. A creature restrained by this poison must make a Consititution saving throw at the end of each of its turns. If it successfully saves against this poison three times, the posion is resited. If it fails saves three times, it is turned to stone and subjected to the petrified condition for the duration. The successes and failures don’t need to be consecutive; keep track of both until the target collects three of a kind.
+
+
+
+
+=== Delivery Type ===
+'''Ingested Delivery Type'''<br>
+'''Application Time:''' 1 action<br>
+'''Type:''' Ingested.<br>
+'''Duration:''' The poison remains dangerous for up to 1 minute after application or until a creature is exposed to the poison, whichever occurs first.<br>
+'''Effect:''' You conceal the poison in food or drink. The first to consume the food or drink is exposed to the poison.<br>
+
+'''Injected Delivery Type''' <br>
+'''Application Time:''' 1 action<br>
+'''Range:''' Melee or Blowgun Range<br>
+'''Type:''' Inhaled.<br>
+'''Duration:''' 1 round<br>
+'''Effect:''' As part of the action to use this delivery type, choose a target that is adjacent to you or within range for your blowgun. You prick them with a tiny needle and the target is exposed to the poison. This can either be performed out of fight with stealth in mind or is checked by a sleight of hand versus the AC of the target as a skill check. As this attack is not intended to do harm except for the poison, no weapon damage is applied.<br>
+
+'''Powder Delivery Type'''<br>
+'''Application Time:''' 1 action<br>
+'''Range:''' 60ft or ammunition<br>
+'''Type:''' Inhaled.<br>
+'''Duration:''' 1 round<br>
+'''Effect:''' As part of the action to use this delivery type, choose a 5 ft radius centered on a square within range. All creatures within the radius are exposed to any poison delivered with this method, and the area becomes heavily obscured until the end of the poison's duration.<br>
+
+'''Vapor Delivery Type'''<br>
+'''Application Time:''' 1 bonus action<br>
+'''Type:''' Inhaled.<br>
+'''Duration:''' 1 round<br>
+'''Effect:''' Emptying the vial of poison into a rag allows a successful grapple attack to expose the target to the poison.<br>
+
+'''Weapon Delivery Type'''<br>
+'''Application Time:''' 1 bonus action<br>
+'''Type:''' Injury.<br>
+'''Duration:''' The poison remains dangerous for up to 1 minute after application or until a creature is exposed to the poison, whichever occurs first.<br>
+'''Effect:''' Smearing the poison onto the blade of a melee weapon or a piece of ammunition that deals piercing or slashing damage allows a successful weapon attack to expose the target to the poison. <br>
+
+=== Ingredients ===
+
+
+== Conditional ==
+
+'''Amiable Ingredient'''<br>
+'''Effect:'''  The exposed creature makes a wisdom save, and on a failure the poison makes its victims more compliant as below.<br>
+{| class="wikitable"
+|-
+! Ingredient Cost !! Effect
+|-
+| 1 || Target gains the charmed condition regarding the Poisoner
+|-
+| 5 || Target acts as if under the influence of the zone of truth spell
+|}
+
+'''Blinding Ingredient'''<br>
+'''Effect:'''  The exposed creature makes a constitution save, and on a failed save is blinded until the end of the duration of the poison.<br>
+'''Cost:''' 2 ingredient points.<br>
+
+'''Frenzying Ingredient'''<br>
+'''Effect:'''  The exposed creature makes a charisma save, and on a failure the poison makes its victims lash out in rage against a random creature.<br>
+'''Cost:''' 3 ingredient points.<br>
+
+'''Numbing Ingredient'''<br>
+'''Effect:''' The exposed creature makes a constitution save. On a failed save, the target gains an effect from the table below based on ingredient amount. This condition lasts for the duration of the poison.<br>
+{| class="wikitable"
+|-
+! Ingredient Cost !! Effect
+|-
+| 1 || On a failed save, the target can’t take reactions until the start of its next turn.
+|-
+| 2 || On a failed save, the target gains the poisoned condition.
+|-
+| 5 || On a failed save, the target gains the paralyzed condition.
+|}
+
+'''Sleeping Ingredient'''<br>
+'''Effect:''' The exposed creature makes a constitution save, and falls unconscious on a failed save. The duration and depth of the sleep is split into two different ingredient point costs. One entry in each table has to be chosen.<br>
+{| class="wikitable"
+|-
+! Ingredient Cost !! Duration
+|-
+| 1 || 1 minute.
+|-
+| 3 || 5 minutes.
+|-
+| 5 || 20 minutes.
+|-
+| 10 || 2 hours.
+|}
+{| class="wikitable"
+|-
+! Ingredient Cost !! Effect
+|-
+| 1 || Sleeps until the creature takes damage or someone takes an action to shake or slap the sleeper awake.
+|-
+| 5 || Sleeps until the creature takes 5 points of damage. Any attack can be specified to try to minimize damage and will only deal up to 5 points of damage or until the target drops to 1 hp, at which point it wakes up.
+|-
+| 10 || Sleeps until the creature suffers horrific pain. < Yes this is up to the DM to interprete it correctly. Maybe add 'Ask your DM what counts as horrific pain.' >
+|}
+
+'''Stumbling Ingredient'''<br>
+'''Effect:''' The exposed creature makes a constitution save, and falls prone on a failed save. <br>
+'''Cost:''' 1 ingredient points.<br>
+
+'''Terrifying Ingredient'''<br>
+'''Effect:''' The exposed creature makes a wisdom save, and becomes frightened on a failed save. This condition lasts for the duration of the poison.<br>
+'''Cost:''' 2 ingredient points.<br>
+
+
+== Duration ==
+
+'''Activating Ingredient'''<br>
+'''Effect:''' Exposure to this ingredient causes a delaying ingredient to activate at the moment of this exposure, instead of at the end of the duration of the poison.<br>
+'''Cost:''' 1 ingredient point.<br>
+
+'''Delaying Ingredient'''<br>
+'''Effect:''' The poison’s saving throw and all effects do not occur until the end of the duration of the poison instead of the beginning.<br>
+'''Cost:''' 2 ingredient point.<br>
+
+'''Persistent Ingredient'''<br>
+'''Effect:''' The poison has its duration extended by one round for each ingredient point up to 4 rounds.<br>
+'''Cost:''' 1 to 4 ingredient points.<br>
+
+'''Prolonging Ingredient'''<br>
+'''Effect:''' The poison has its duration extended by the time given in the table below, but its effect will be delayed. The delay cannot only be shortened by the activating ingredient, if at least 1 minute has passed. The delay until the poison is activated can be chosen from the same table as the duration, but will cost no extra ingredient points.
+'''Special:''' Can not be mixed together with a Over time damage poison.
+{| class="wikitable"
+|-
+! Ingredient Cost !! Duration
+|-
+| 1 || 1 minute.
+|-
+| 2 || 10 minutes.
+|-
+| 3 || 1 hour.
+|-
+| 5 || 24 hours.
+|-
+| 7 || 1 week.
+|-
+| 9 || 1 month.
+|}
+
+
+
+== Over time damage ==
+
+'''Burning Ingredient'''<br>
+'''Effect:''' The exposed creature makes a dexterity save, and on a failed save takes fire damage based on the table below every round until the saving throw is passed or the duration of the poison is reached. <br>
+'''Special:''' Burning, Corrosive, Instant, Lingering and Wounding poisons can not be mixed together, a poison can only deal damage using one of them.
+
+{| class="wikitable"
+|-
+! '''Ingredient Cost''' !! Half Damage on a save
+|-
+| 1 || 1d6
+|-
+| 3 || 2d6
+|-
+| 5 || 3d6
+|-
+| 7 || 4d6
+|-
+| 9 || 5d6
+|-
+| 11 || 6d6
+|}
+
+'''Lingering Ingredient'''<br>
+'''Effect:''' The exposed creature makes a constitution save, and on a failed save takes poison damage based on the table below every round until the saving throw is passed or the duration of the poison is reached.<br>
+'''Special:''' Burning, Corrosive, Instant, Lingering and Wounding poisons can not be mixed together, a poison can only deal damage using one of them.
+
+{| class="wikitable"
+|-
+! '''Ingredient Cost''' !! Half Damage on a save
+|-
+| 1 || 1d6
+|-
+| 3 || 2d6
+|-
+| 5 || 3d6
+|-
+| 7 || 4d6
+|-
+| 9 || 5d6
+|-
+| 11 || 6d6
+|}
+
+
+== Instant damage ==
+
+'''Corrosive Ingredient'''<br>
+'''Effect:''' The exposed creature makes a dexterity save, and on a failed save takes acid damage based on the table below. Can only last one round even with the persistent ingredient.<br>
+'''Special:''' Burning, Corrosive, Instant, Lingering and Wounding poisons can not be mixed together, a poison can only deal damage using one of them.
+
+{| class="wikitable"
+|-
+! '''Ingredient Cost''' !! Half Damage on a save
+|-
+| 1 || 1d10
+|-
+| 3 || 2d10
+|-
+| 5 || 3d10
+|-
+| 7 || 4d10
+|-
+| 9 || 5d10
+|-
+| 11 || 6d10
+|}
+
+'''Instant Ingredient'''<br>
+'''Effect:''' The exposed creature takes poison damage based on the table below. Can only last one round even with the persistent ingredient.<br>
+'''Special:''' Burning, Corrosive, Instant, Lingering and Wounding poisons can not be mixed together, a poison can only deal damage using one of them.
+
+{| class="wikitable"
+|-
+! '''Ingredient Cost''' !! Damage
+|-
+| 1 || 1d4
+|-
+| 3 || 2d4
+|-
+| 5 || 3d4
+|-
+| 7 || 4d4
+|-
+| 9 || 5d4
+|-
+| 11 || 6d4
+|}
+
+'''Wounding Ingredient'''<br>
+'''Effect:''' The exposed creature makes a constitution save, and takes poison damage based on the table below. Can only last one round even with the persistent ingredient.<br>
+'''Special:''' Burning, Corrosive, Instant, Lingering and Wounding poisons can not be mixed together, a poison can only deal damage using one of them.
+{| class="wikitable"
+|-
+! '''Ingredient Cost''' !! Half Damage on a save
+|-
+| 1 || 1d10
+|-
+| 3 || 2d10
+|-
+| 5 || 3d10
+|-
+| 7 || 4d10
+|-
+| 9 || 5d10
+|-
+| 11 || 6d10
+|}
+
+
+== Special == 
+
+'''Antidote Ingredient'''<br>
+'''Effect:'''  The poison created with this ingredient creates a second vial. That vial is an antidote to the other effects of the poison.<br>
+'''Cost:''' 1 ingredient points.<br>
+
+'''Billowing Ingredient'''<br>
+'''Effect:'''  The poison has its radius extended based on the chart below.<br>
+'''Special:''' This ingredient can only be used with the powder delivery type.<br>
+
+{| class="wikitable"
+|-
+! Ingredient Cost !! Radius
+|-
+| 1 || 10ft
+|-
+| 3 || 20ft
+|-
+| 5 || 30ft
+|-
+| 7 || 50ft
+|}
+
+'''Sweet Ingredient'''<br>
+'''Effect:''' The exposed creature has disadvantage on smelling, tasting or other forms of detecting poisons delivered by for example the ingest delivery method. <br>
+'''Cost:''' 3 ingredient points.<br>
+
+
+
+'''Multiclassing'''<br>
+'''Prerequisites'''. To qualify for multiclassing into the Poisoner class, you must meet these prerequisites: Intelligence 13.<br>
+
+'''Proficiencies'''. When you multiclass into the Poisoner class, you gain the following proficiencies: Poisoner’s Kit, Light armor, Shields, Simple weapons, the shortsword, and the blowgun.
+
+----
+{{5e Classes Breadcrumb}}
+[[Category:5e]]
+[[Category:Class]]
+[[Category:User]]
+
+
+
+
+=== More ideas ===
+
+- Another archtype: Magical poisoner
+Can channel touch spells into poisons.
+Either as half caster or a system similar to the warlock.
+Problems I see are that it is too 'gimiky'. It is not another core gameplay mechanic and it will not add to much versatility to the poisons.
+I think it will just end in a poisoner, that has two or three additional poisons and thats it. But he has no additional methods of delivery.
+Maybe add poisonous mage hand? So he can use his bonus action to use the inject type with his mage hand, but it has to travel back to him and to his target.
+
+
+
+
+- Just use the rogue.
+Play it as another archtype for rogue.
+Freeze the sneak attack damage at a 2d6 and add fewer ingredient points up from level 3 to balance the damage.
+The advantage would be that we wont need any basic class features, because these are not to good any way and some of them
+could be fused into the archtypes. Like battle poison rogue or something similar.
+I like it because it reduces complexity and will make balance a lot easier.
+It kinda favours the assissin class tho, because that is what most rogues would go for on level 1-2 (dex based)
